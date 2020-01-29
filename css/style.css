@@ -1,12 +1,12 @@
 .navbar{
-    background-color:  #f4d03f  ;
+    background-color: #e6a700;
 }
 .navbar-brand{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     font-size: 40px;
 }
 .inst-top{
-    background-color: #fef9e7 ;
+    background-color:  #7a7a7a;
 }
 .margin{
     padding-top: 20px;
@@ -17,7 +17,7 @@ h3 h4{
     font-family: Arial, Helvetica, sans-serif;
 }
 .serv-top{
-    background-color: #f7dc6f   ;
+    background-color:  #f4d03f;
 }
 .consu-top{
     background-color: #000000;
@@ -42,4 +42,10 @@ h1{
 }
 .bg-footer{
     background-color: #f4d03f;
+}
+.card{
+    background-color:  #e6a700;
+}
+.bg-contato{
+    background-color: #d1d1d1;
 }
